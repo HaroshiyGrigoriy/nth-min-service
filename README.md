@@ -51,7 +51,7 @@ MinControllerTest — HTTP-эндпоинт (MockMvc)
 🛠 Технологии
 Java 17
 
-Spring Boot 3.4
+Spring Boot 3.2.5
 
 Apache POI — чтение Excel
 
